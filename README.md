@@ -1,16 +1,22 @@
-### Hi there 👋
+# Matheus Lima
 
-<!--
-**matheuslima25/matheuslima25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuslima25?tab=repositories)](https://github.com/matheuslima25?tab=repositories)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuslima100/?locale=en_US)](https://www.linkedin.com/in/matheuslima100/?locale=en_US)
 
-Here are some ideas to get you started:
+* Developer Python/Django 🤖
+* 2 years of experience as a software developer :computer:
+* Currently in graduate school in Software Development by the [Emprel](https://www.emprel.gov.br/)-[CIn](https://portal.cin.ufpe.br/) partnership :office: :school:
+  * [The list of participants](https://drive.google.com/file/d/1x07Dd3hSlJWuyPxE1CAtcf6fLM4cMj3m/view)
+* Always improving my developing and writing skills 🖥️ 📖
+* Always driking coffee ☕
+* Love: God, Mom, Girlfriend, RPG ❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledge
+
+- **Languages**: Java, Python
+- **IDE**: Intellij IDEA, Intellij PyCharm, Android Studio, Visual Code, Eclipse
+- **Databases**: SQLite, MySQL, PostgreSQL
+- **Operational systems**: Linux, Windows
+- **Other technologies, frameworks and tools**: Django Framework, Django Rest Framework, jQuery, AJAX, JavaScript, Bootstrap, Photoshop
+
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=matheuslima25&show_icons=true&title_color=2124B3&icon_color=2124B3&hide_border=true&custom_title=Matheus Lima — GitHub stats">
