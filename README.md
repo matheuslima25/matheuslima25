@@ -19,4 +19,4 @@
 - **Operational systems**: Linux, Windows
 - **Other technologies, frameworks and tools**: Django Framework, Django Rest Framework, jQuery, AJAX, JavaScript, Bootstrap, Photoshop
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=matheuslima25&custom_title=Matheus Lima — GitHub stats">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=matheuslima25">
