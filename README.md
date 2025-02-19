@@ -1,24 +1,37 @@
-# Matheus Lima
+# Hi there, I'm Matheus Lima 👋
 
-[![Github Badge](https://img.shields.io/badge/-Repositories-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/matheuslima25?tab=repositories)](https://github.com/matheuslima25?tab=repositories)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheuslima100/?locale=en_US)](https://www.linkedin.com/in/matheuslima100/?locale=en_US)
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here's a bit about me:
 
-* Developer Python/Django 🤖
-* 4 years of experience as a software developer :computer:
-* Postgraduate in Software Engineering at [CIn](https://portal.cin.ufpe.br/) :school:
-* Always improving my developing and writing skills 🖥️ 📖
-* Always driking coffee ☕
-* Love: God, Mom, RPG ❤️
+## 🧑‍💻 About Me
 
-## Knowledge
+- 💼 Currently working as a Software Engineer at [NLT](https://www.nlt.com.br/).
+- 🎓 Graduated with a degree in Information Systems from [UNIFIP](https://unifip.edu.br/).
+- 🎓 Postgraduate degree in Software Engineering from [CIn/UFPE](https://portal.cin.ufpe.br/).
+- 🎓 Master's student in Science, Health, and Technology at [UEPB](https://pos-graduacao.uepb.edu.br/ppgcts/).
+- 🌐 I enjoy working on web development and cloud computing.
+- 📚 Always eager to learn and explore new technologies.
+- 🔭 Currently focusing on improving my skills in AI and Machine Learning.
 
-- **Languages**: Java, Python
-- **Frameworks**: Spring, Django
-- **IDE**: Intellij IDEA, Intellij PyCharm, Android Studio, VisualCode Studio, Eclipse
-- **Databases**: SQLite, MySQL, PostgreSQL, H2
-- **Operational systems**: Linux, Windows
-- **Other technologies, frameworks and tools**: Django Framework, Django Rest Framework, jQuery, AJAX, JavaScript, Bootstrap, Photoshop
+## 🚀 Skills
 
-<a href="https://github.com/matheuslima25/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheuslima25" />
-</a>
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Web Development:** Django, FastAPI, React, Next.js
+- **Cloud Technologies:** AWS, Azure, Google Cloud Platform
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **DevOps:** Docker, CI/CD with GitHub Actions
+
+## 📈 GitHub Stats
+
+![Matheus Lima's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuslima25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslima25&layout=compact&theme=radical)
+
+## 💬 Let's Connect
+
+- LinkedIn: [José Matheus](https://www.linkedin.com/in/matheuslima100/)
+- X: [@matheuslima_py](https://x.com/matheuslima_py)
+- Email: josematheuslima25@gmail.com
+
+Feel free to reach out if you want to collaborate on a project, or just chat about tech!
+
+Thanks for stopping by! 😄
+
