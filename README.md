@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - 💼 Currently working as a Software Engineer at [NLT](https://www.nlt.com.br/).
 - 🎓 Graduated with a degree in Information Systems from [UNIFIP](https://unifip.edu.br/).
 - 🎓 Postgraduate degree in Software Engineering from [CIn/UFPE](https://portal.cin.ufpe.br/).
-- 🎓 Master's student in Science, Health, and Technology at [UEPB](https://pos-graduacao.uepb.edu.br/ppgcts/).
+- 🎓 Master's student in Computer Science with focus on Artificial Intelligence at [UFCG](https://www.computacao.ufcg.edu.br/).
 - 🌐 I enjoy working on web development and cloud computing.
 - 📚 Always eager to learn and explore new technologies.
 - 🔭 Currently focusing on improving my skills in AI and Machine Learning.
